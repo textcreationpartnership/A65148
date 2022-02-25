@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The voice of the nation, or, An humble address to the high and honourable court of Parliament for their just severity to repress the growing boldness of atheism and profaneness in the land.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65148</idno>
+            <idno type="STC">Wing V680</idno>
+            <idno type="STC">ESTC R217610</idno>
+            <idno type="EEBO-CITATION">99829268</idno>
+            <idno type="PROQUEST">99829268</idno>
+            <idno type="VID">33705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65148)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33705)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1940:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The voice of the nation, or, An humble address to the high and honourable court of Parliament for their just severity to repress the growing boldness of atheism and profaneness in the land.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Henry Brome,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy cataloged closely trimmed with slight loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Protestantism --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="public_petition">
+            <pb facs="tcp:33705:1"/>
+            <head>The VOICE of the NATION, <hi>OR, An humble Addreſs to the High and Honourable Court of</hi> PARLIAMENT, <hi>for their juſt Seve<g ref="char:EOLhyphen"/>rity to repreſs the</hi> growing Boldneſs <hi>of</hi> Atheiſm <hi>and</hi> Prophaneneſs <hi>in the Land.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E cannot but acknowledge with our beſt thankfulneſs, your Wiſe and Godly Care to continue, and firmly to eſtabliſh the Heavenly bleſſing of <hi>PROTESTANT RELIGION</hi> among us, and to ſtrengthen this <hi>Engliſh</hi> Monarchy againſt the <hi>pretended</hi> Title and the <hi>unwearied</hi> Attempts of the <hi>Papal Tyranny.</hi> A greater danger calls now upon your Zeal to<g ref="char:EOLhyphen"/>wards God, and Love to your Countrey, even to put a ſtop by your Wiſdom and Authority, to the <hi>growing Diſeaſe</hi> of Domineering Atheiſm, and both <hi>Actual</hi> and <hi>Doctrinal</hi> Blaſphemy.</p>
+            <p>For while you take a godly care that we may continue PROTESTANTS, a Queſtion is moved openly, <hi>Whether we muſt be</hi> CHRISTIANS? and the grounds of <hi>Chriſtianity</hi> are (we will not ſay <hi>
+                  <g ref="char:V">Ʋ</g>ndermined,</hi> but) <hi>boldly battered</hi> with un<g ref="char:EOLhyphen"/>reaſonable Reaſons, and the higheſt Scorn. Whereby your <hi>Holy Deſign</hi> of aſſerting the <hi>Proteſtant Religion</hi> will be eluded: For the leaſt and the firſt Evil intended by that Plot of Satan is <hi>Indifference of</hi> RELIGIONS; and the next (which of it ſelf will follow) <hi>Con<g ref="char:EOLhyphen"/>tempt of all</hi> RELIGION.</p>
+            <p>But in effect it is the old <hi>Popiſh Plot</hi>; for it is known that the firſt Task of the <hi>Emiſſaries</hi> of <hi>Rome</hi> ſent into <hi>England</hi> is to inſtil into the minds of <hi>Proteſtants</hi> the Principles of <hi>Popery</hi>; and when theſe will not take, then the Principles of <hi>Atheiſm.</hi> The <hi>Zeal</hi> of Religion being once taken away, theſe <hi>Craftſmen</hi> may with little contradiction work their Politick Intereſt. Which, though it be repreſented as different from that of Religion, yet it is moſt evidently true, that the Promoters of <hi>Atheiſm (or they by whom they are acted) are Agents of the Com<g ref="char:EOLhyphen"/>mon Enemy</hi> of <hi>England, the Court of Rome.</hi>
+            </p>
+            <p>Such men will not fail to ſuggeſt unto you the old Maxim, <hi>Deorum injurie Diis cure,</hi> that the injuries offered unto God, muſt be left to Gods judgment. But you have ſo much Piety and Wiſdom happily matched together, as to ſee that Gods intereſt is yours alſo; and that the Faith, Fear, and Love of God, are the ſtrength of the State, the Cement of Commerce, and the Guardian of Private and Publick Intereſſes. They that go about to eradicate theſe Principles out of the minds of the Kings Subjects, are the <hi>Sworn Enemies</hi> of the State, and the <hi>greateſt Plagues</hi> of Mankind; therefore to be driven from all Societies, and to be puniſhed as the worſt of Malefactors, Enemies to God and Men, and Monſters in Nature.</p>
+            <p>A Right Reverend Biſhop lately promoted to Heaven, a Perſon in whom we have loſt one of the ſoundeſt Head-pieces of this Age, in his accurate and ſeaſonable Treatiſe of the <hi>Principles and Duties of Natural Religion,</hi> after he hath confuted <hi>Atheiſm</hi> with mildneſs, and ſanctified ſolidity, delivereth thus his opinion how <hi>Atheiſts</hi> ought to be dealt with in a Chriſtian State; and ſuch would have been his Vote in the Houſe of Lords.</p>
+            <q>Whatever Diſputes have been raiſed concerning the lawfulneſs of puniſhing men for their Diſſenting Conſciences in matter of Religion, yet never any man queſtioned the lawfulneſs of puniſhing men for their Profaneneſs and Contempt of all Religion. Such men as renounce Conſcience, cannot pretend that they ſuffer for or it. And certainly this Vice deferveth upon many accounts the greateſt ſeverity of Laws, as being in its own nature deſtructive of the very Principles of Government, and the peace of all Societies; beſides the miſchiefs conſequent upon it from the Divine Vengeance.<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>98</note>
+            </q>
+            <p>The ſame Wiſe Prelat addeth an Obſervation of <hi>Seneca,</hi> that <hi>ſeveral Countries appoint ſeveral puniſhments for the Violation of Religion, but every Countrey appointeth ſome, and it doth not any where eſcape unpuniſhed.</hi> If <hi>Pagans</hi> took that Order to vindicate <hi>Falſe Religions,</hi> ſhall we <hi>Chriſtians</hi> be leſs diligent to Vindicate <hi>the onely true one</hi>?</p>
+            <p>His Lordſhip alledgeth alſo <hi>Plato de Legibus,</hi> pronouncing that <hi>Atheiſm ought to be puniſhed capitally, as of moſt pernicious conſequence to Govern<g ref="char:EOLhyphen"/>ment.</hi> And truly if words of <hi>High Treaſon</hi> againſt the Kings Majeſty be puniſhable with Death by the Laws of our Land, it is very unreaſona<g ref="char:EOLhyphen"/>ble that words of <hi>High Treaſon</hi> againſt Gods infinite Majeſty ſhould ſcape unpuniſhed, for want of Laws to repreſs the Offenders. That <hi>Eſſential Want,</hi> addeth much to the <hi>Boldneſs</hi> of ſuch Offenders : For if there be any Statutes againſt <hi>Blaſphemy,</hi> they are looked upon as anti<g ref="char:EOLhyphen"/>quated. And though the offence be Vulgar, yet none (God forgive us) is indicted for it at any Aſſizes or Seſſions, there being no encourage<g ref="char:EOLhyphen"/>ment for the Delator.</p>
+            <p>
+               <hi>Yet the abuſe of Religion ought to be looked upon as a common Injury, and every man is concerned to endeavour a Vindication of it,</hi> ſaith the ſame Religious and Prudent Biſhop: And he brings in for it a Rule in the Civil Law, <hi>Religio contaminata ad omnium pertinet injuriam.</hi> If every man is concerned in it, much more a Politick Body.<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>d.</note>
+            </p>
+            <p>And ſince your Wiſdom is ſufficiently ſatisfied that the Scandal is general, and that this Expoſtulation is the Voice of every Perſon in this Land that hath any Piety in his heart, or any tenderneſs for the <hi>Publick Preſervation</hi> , We crave and expect of you, Noble PEERS and Worthy PATRIOTS, our Vindication of that <hi>Common Injury,</hi> and Defence againſt the daily danger of ſo many of us, who (as much as the ſpiritual danger is more pernicious then the temporal) have more ground then <hi>David</hi> to ſay, <hi>Our ſoul is among Lions, and we lie among them that are ſet on fire, whoſe teeth are ſpears and arrows, and their tongue a ſharp ſword.</hi> Men that ſet their mouth againſt Heaven, and with a maſter<g ref="char:EOLhyphen"/>ful impudence affirm that there is none to behold or judge them, caſt contempt upon the Holy Scripture, the Saints mentioned in it, and the very Perſon of JESUS CHRIST God bleſſed for evermore. Men that bear themſelves as the <hi>Kings of Wit</hi> among a company of <hi>Fools</hi>; eſteeming them no better that own <hi>Piety</hi> and <hi>Religion.</hi>
+            </p>
+            <p>And when pious rational men, that will not be over-awed by their peremptorineſs, offer to teach them better, they will be ſure to put th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> out of that Diſcourſe too ſerious for them, with their ſtudied Common-places of Buffonry againſt Godlineſs and Conſcience. But tho<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> thereby they be far from winning their godly Oppoſers, they ſtun them with horror, and leave their memory ſtuffed and ſtained (again their will) with their <hi>peſtiferous communication.</hi>
+            </p>
+            <p>Such men have no ground to ſay, that before we call upon Authority to reſtrain and puniſh them, they ought to be convinced of the<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Errour, for ſo they have been already, as much as could be done with Learning, Piety, and found Reaſon. And ſo much good hath the<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Wickedneſs</hi> done, that it hath given occaſion to excellent Books, and powerful pithy Sermons to that purpofe; ſeveral of which have bee<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Printed by his Majeſties Command. And it hath put a neceſſity upon our Religious Clergy to bend their Studies to the defeating of tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Helliſh Conſpiracy,</hi> which attempteth to break the Banks of Conſcience and Religion, that <hi>Vice</hi> may have its full Scope in the World.</p>
+            <p>But hitherto theſe holy and rational endeavours have done no other effect (for any thing we ſee) towards the vitious Atheiſts, but to make them more proud and inſulting; without any reſpect of the Laws of God and Men. We may praiſe God that the late godly endeavours againſt Atheiſm have powerfully ſetled the tempted Chriſtians in their moſt holy Faith. But Divines may Write and Preach their heart out, yet men whoſe God is their Belly and their Luſt, will ſpeak and do what they liſt.</p>
+            <p>Since then ſuch peſtilent perſons are not to be confuted but by Authority, we humbly crave <hi>that Confutation</hi> at your hands, as your Wiſdom ſhall think moſt ſit; juſtly fearing, that if we neglect to put a timely ſtop to that ranging Peſtilence, the wrath of our jea<g ref="char:EOLhyphen"/>lous God will break upon us, for not fighting againſt thoſe that fight againſt him.</p>
+            <epigraph>
+               <q>Now the God of patience and conſolation grant you to he like-minded one towards another, according to Chriſt Jeſus: That ye may with one mind and one mouth glorifie God even the Father of our Lord Jeſus Chriſt.<note place="margin">Rom. 15.5</note>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Brome,</hi> 1675.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
